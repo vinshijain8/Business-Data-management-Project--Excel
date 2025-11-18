@@ -21,3 +21,6 @@ improved inventory control, reduced material waste, and more aligned purchasing 
 led to cost savings, enhanced operational efficiency, and better positioning against competitive 
 pricing pressures, demonstrating the value of leveraging analytics for sustainable manufacturing 
 growth. 
+
+
+<img width="781" height="394" alt="image" src="https://github.com/user-attachments/assets/02f8839e-15d8-4061-a2fc-9c98cb86fd40" />
